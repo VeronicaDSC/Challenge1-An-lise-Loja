@@ -55,15 +55,15 @@ Para visualizar ou executar este notebook no seu ambiente, siga os passos abaixo
 
 ---
 
-###Análise final
+### Análise final
 Com base nos números levantados, verifica-se que o menor **lucro dentre as lojas é a loja 4** ainda que a avaliação de cliente esteja na média das avaliações e tenha o menor frete é notório conforme mostrado a seguir:
-##Faturamento:
+## Faturamento:
 **Faturamento Loja 1: R$ 1,534,509.12**
   Faturamento Loja 2: R$ 1,488,459.06
   Faturamento Loja 3: R$ 1,464,025.03
   Faturamento Loja 4: R$ 1,384,497.58
 
-##Categorias:
+## Categorias:
 Categoria do Produto
 moveis                   1886
 eletronicos              1772
@@ -74,13 +74,13 @@ instrumentos musicais     753
 livros                    742
 utilidades domesticas     730
 
-##Avaliação:
+## Avaliação:
   Média de Avaliação Loja 1: 3.98
 **Média de Avaliação Loja 2: 4.04**
   Média de Avaliação Loja 3: 4.05
   Média de Avaliação Loja 4: 4.00
 
-##Produtos + e - vendidos:
+## Produtos + e - vendidos:
 Produto mais vendido loja1: Micro-ondas (60 unidades)
 Produto menos vendido loja1: Headset (33 unidades)
 
@@ -96,13 +96,13 @@ Produto menos vendido loja4: Guitarra (33 unidades)
 Produto mais vendido geral: Cômoda (210 unidades)
 Produto menos vendido geral: Celular ABXY (157 unidades)
 
-##Frete:
+## Frete:
 Frete Loja 1: R$ 81,837.97
 Frete Loja 2: R$ 79,314.16
 Frete Loja 3: R$ 78,022.66
 **Frete Loja 4: R$ 73,755.88**
 
-##Lucro:
+## Lucro:
 **Lucro Loja 1: R$ 1,452,671.15**
 Lucro Loja 2: R$ 1,409,144.90
 Lucro Loja 3: R$ 1,386,002.37
@@ -113,4 +113,4 @@ Lucro Loja 3: R$ 1,386,002.37
 Este projeto é de caráter educacional e serve para reforçar habilidades de análise de dados usando Python.
 
 ---
-Análise desenvolvida por Verônica D.S Carvalho
+### Análise desenvolvida por Verônica D.S Carvalho
